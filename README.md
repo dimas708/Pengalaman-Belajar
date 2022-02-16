@@ -1,4 +1,4 @@
-# Pengalamn-Belajar
+# Pengalaman-Belajar
 --Repo ini dibuat khusus untuk pengalaman belajar saya di dicoding
 
 #16 Februari 2022
